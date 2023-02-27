@@ -1,5 +1,5 @@
 /**
-* Booking - Multipurpose Online Booking Theme
+* Hotel
 *
 * @author Webestica (https://www.webestica.com/)
 * @version 1.2.0
