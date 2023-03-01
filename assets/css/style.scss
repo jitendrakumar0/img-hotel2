@@ -22073,6 +22073,12 @@ html[dir=rtl] .choices__input {
   aspect-ratio: 10/10;
 }
 
+.imgStyle {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .scanDownload {
   width: 200px;
   height: 200px;
